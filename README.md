@@ -10,7 +10,7 @@ DEPLOYMENT:
  * Search city function
  * 5-Day weather forecast
  * Current Temperature, Humidity, Wind Speed & UV Index
- * Icons for sunny, cloudy, raining & snowing
+ * Icons for Sunny, Cloudy, Raining & Snowing
  * Clear history button
 
  ![password generator homepage](assets/images/weather-dashboard.jpg)
